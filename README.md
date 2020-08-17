@@ -5,7 +5,7 @@
 - I follow the popular applications about what they are doing.
 - I have experience with Realm, Core Data, Core Locations,Firebase, Facebook iOS SDK, Restful APIs, SnapKit, Moya, MapKit, MVVM, MVC. 
 - 🔭 I’m currently working on <a href = "https://github.com/emrdgrmnci/FirstLeague"> FirstLeague </a> MVVM project
-- 🌱 I’m currently learning MVVM design pattern and Unit Testing
+- 🌱 I’m currently learning SwiftUI, MVVM, Unit Testing
 - 💬 Ask me about iOS Development and Swift
 - 📫 How to reach me: degirmenci.a.emre@gmail.com
 
