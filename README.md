@@ -9,3 +9,4 @@
 - 💬 Ask me about iOS Development and Swift
 - 📫 How to reach me: degirmenci.a.emre@gmail.com
 
+![Emre's github stats](https://github-readme-stats.vercel.app/api?username=emrdgrmnci&show_icons=true&line_height=30)
