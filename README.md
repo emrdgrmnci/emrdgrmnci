@@ -4,7 +4,7 @@
 - I am an active member of a local iOS community here at Izmir called NSIzmir where I share & learn knowledge with & from my fellow iOS developer peers.
 - I follow the popular applications about what they are doing.
 - I have experience with Realm, Core Data, Core Locations,Firebase, Facebook iOS SDK, Restful APIs, SnapKit, Moya, MapKit, MVVM, MVC. 
-- 🌱 I’m currently learning RxSwift, MVVM, Unit Testing
+- 🌱 I’m currently learning RxSwift, Combine, SwiftUI
 - 💬 Ask me about iOS Development and Swift
 - 📫 How to reach me: degirmenci.a.emre@gmail.com
 
