@@ -9,3 +9,28 @@
 - 📫 How to reach me: degirmenci.a.emre@gmail.com
 
 ![Emre's github stats](https://github-readme-stats.vercel.app/api?username=emrdgrmnci&show_icons=true&line_height=30)
+
+## My Apps on AppStore
+<div style="display: flex;">
+    <div>
+        <a href="https://apps.apple.com/us/app/kcalapp/id1637391298">
+            <img src="https://www.apple.com/v/app-store/b/images/overview/icon_appstore__ev0z770zyxoy_small_2x.png" alt="Download on the App Store" width="100"/>
+            <br>
+            Download kCal ✨
+        </a>
+    </div>
+    <div style="margin-left: 20px;">
+        <a href="https://apps.apple.com/us/app/zapzup/id1617523640">
+            <img src="https://www.apple.com/v/app-store/b/images/overview/icon_appstore__ev0z770zyxoy_small_2x.png" alt="Download on the App Store" width="100"/>
+            <br>
+            Download ZapZup ✨
+        </a>
+    </div>
+  <div>
+        <a href="https://apps.apple.com/us/app/edcurrency/id1616415209">
+            <img src="https://www.apple.com/v/app-store/b/images/overview/icon_appstore__ev0z770zyxoy_small_2x.png" alt="Download on the App Store" width="100"/>
+            <br>
+            Download EDCurrency ✨
+        </a>
+    </div>
+</div>
