@@ -13,10 +13,17 @@
 ## My Apps on AppStore
 <div style="display: flex;">
     <div>
+        <a href="https://apps.apple.com/us/app/plug-me-17/id6466442459">
+            <img src="https://www.apple.com/v/app-store/b/images/overview/icon_appstore__ev0z770zyxoy_small_2x.png" alt="Download on the App Store" width="100"/>
+            <br>
+            Download Plug-Me-17 ⚡️🚙
+        </a>
+    </div>
+    <div>
         <a href="https://apps.apple.com/us/app/kcalapp/id1637391298">
             <img src="https://www.apple.com/v/app-store/b/images/overview/icon_appstore__ev0z770zyxoy_small_2x.png" alt="Download on the App Store" width="100"/>
             <br>
-            Download kCal ✨
+            Download kCal 🏋🏼💪🏼
         </a>
     </div>
     <div style="margin-left: 20px;">
@@ -30,7 +37,7 @@
         <a href="https://apps.apple.com/us/app/edcurrency/id1616415209">
             <img src="https://www.apple.com/v/app-store/b/images/overview/icon_appstore__ev0z770zyxoy_small_2x.png" alt="Download on the App Store" width="100"/>
             <br>
-            Download EDCurrency ✨
+            Download EDCurrency 💰
         </a>
     </div>
 </div>
