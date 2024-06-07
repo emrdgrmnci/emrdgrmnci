@@ -10,6 +10,8 @@
 
 ![Emre's github stats](https://github-readme-stats.vercel.app/api?username=emrdgrmnci&show_icons=true&line_height=30)
 
+<a href="https://www.buymeacoffee.com/mkNqZf8Nt8" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## My Apps on AppStore
 <div style="display: flex;">
     <div>
