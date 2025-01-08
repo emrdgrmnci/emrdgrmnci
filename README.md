@@ -27,7 +27,7 @@
         </a>
     </div>
     <div>
-    <a href = "apple.co/4guIvD7">
+    <a href = "https://apps.apple.com/tr/app/walk-mate-weight-loss/id6739468121">
         <img src="https://github.com/emrdgrmnci/emrdgrmnci/blob/master/walkmate.png" width="400"/>
         <br>
     </a>
