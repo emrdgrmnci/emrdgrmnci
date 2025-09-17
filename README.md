@@ -3,7 +3,7 @@
 - I am a software engineer focused on iOS technologies with 6+ years of industry experience. I care about details, end-user experience, and solving customer pain points. 
 - I follow the popular applications about what they are doing.
 - I have experience with Realm, Core Data, Core Locations,Firebase, Facebook iOS SDK, Restful APIs, SnapKit, Moya, MapKit, MVVM, MVC. 
-- 🌱 I’m currently learning The Composable Architecture, Combine, SwiftUI
+- 🌱 I’m currently learning The Composable Architecture, Swift Concurrency, SwiftUI
 - 💬 Ask me about iOS Development and Swift
 - 📫 How to reach me: degirmenci.a.emre@gmail.com
 
