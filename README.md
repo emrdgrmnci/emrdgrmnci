@@ -12,10 +12,10 @@
 ## My Apps on AppStore
 <div style="display: flex;">
     <div>
-        <a href="https://apps.apple.com/tr/app/travel-route-map/id6504141706?platform=iphone">
-            <img src="https://github.com/emrdgrmnci/emrdgrmnci/blob/master/travelroutemap.png" width="400"/>
-            <br>
-        </a>
+    <a href = "https://apps.apple.com/tr/app/walk-mate-weight-loss/id6739468121">
+        <img src="https://github.com/emrdgrmnci/emrdgrmnci/blob/master/walkmate.png" width="400"/>
+        <br>
+    </a>
     </div>
     <div>
         <a href="https://apps.apple.com/tr/app/ev-charge-stations-map/id6466442459">
@@ -24,10 +24,10 @@
         </a>
     </div>
     <div>
-    <a href = "https://apps.apple.com/tr/app/walk-mate-weight-loss/id6739468121">
-        <img src="https://github.com/emrdgrmnci/emrdgrmnci/blob/master/walkmate.png" width="400"/>
-        <br>
-    </a>
+        <a href="https://apps.apple.com/tr/app/travel-route-map/id6504141706?platform=iphone">
+            <img src="https://github.com/emrdgrmnci/emrdgrmnci/blob/master/travelroutemap.png" width="400"/>
+            <br>
+        </a>
     </div>
     <div>
     <a href="https://apps.apple.com/us/app/kcalapp/id1637391298">
