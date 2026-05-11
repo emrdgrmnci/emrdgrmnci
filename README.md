@@ -7,7 +7,7 @@
 - 💬 Ask me about iOS Development and Swift
 - 📫 How to reach me: degirmenci.a.emre@gmail.com
 - Find me on <a href="https://x.com/emrdgrmnci" target="_blank">X</a> and <a href="https://bsky.app/profile/emredeg.bsky.social" target="_blank">Bluesky</a>
-- You can also find me on <a rel="me" href="https://mastodon.social/@aemre">Mastodon</a>
+- You can also find me on <a href="https://mastodon.social/@aemre" rel="me">Mastodon</a>
  
 <a href="https://www.buymeacoffee.com/mkNqZf8Nt8" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
