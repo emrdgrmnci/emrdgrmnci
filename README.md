@@ -31,10 +31,3 @@
             <br>
         </a>
     </div>
-    <div>
-    <a href="https://apps.apple.com/us/app/kcalapp/id1637391298">
-       <img src="https://github.com/emrdgrmnci/emrdgrmnci/blob/master/kcal.png" width="400"/>
-    </a>
-    </div>
-
-
